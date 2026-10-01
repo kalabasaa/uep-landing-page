@@ -110,7 +110,6 @@ The design uses solid colors instead of gradients to maintain a professional aca
 
 ## Author
 
-<div align="center">
 
 ### Renier Jhon
 
@@ -118,4 +117,5 @@ Bachelor of Science in Information Technology
 
 University of Eastern Pangasinan
 
-</div>
+
+
